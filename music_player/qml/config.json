@@ -1,0 +1,8 @@
+{
+    "title": "Music",
+    "identifier": "com.yourcompany.wizardEVAP.Music",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
